@@ -13,7 +13,7 @@
 
 **Today's Progress**: Learned how to clone repo, created a personal page, had technical interview with a/A
 
-**Thoughts**: Started pair programming with friends and even in the technical interview. While coding, thinking out loud and explaining your strategy to the interviewer was tough but all of this is just a FUN.
+**Thoughts:**: Started pair programming with friends and even in the technical interview. While coding, thinking out loud and explaining your strategy to the interviewer was tough but all of this is just a FUN.
 
 **Link(s) to work**: [Personal page](https://repl.it/@KYUNGHWAJEONG/codeshare)
 
@@ -22,8 +22,18 @@
 
 **Today's Progress**: I've gone through 10 modules in freeCodeCamp and done pair programming through repl.it about CSS selectors drills in Thinkful.
 
-**Thoughts** Although at the early stage, pair programming helps to reinforce my knowledge by communicating with partners.
+**Thoughts:** Although at the early stage, pair programming helps to reinforce my knowledge by communicating with partners.
 
 **Link(s) to work**
 1. [Thinkful CSS selectors](https://repl.it/@KYUNGHWAJEONG/New-repl-for-Drill-3)
 2. [Link to External Pages with Anchor Elements](https://learn.freecodecamp.org/responsive-web-design/basic-html-and-html5/link-to-external-pages-with-anchor-elements)
+
+
+### Day 4: August 25, 2019 Sunday
+
+**Today's Progress**: I've gone through module 1.20 in freeCodeCamp and Udemy Angela's bootcamp module 10.
+
+**Thoughts:** Been at my computer all day long feeling tired but and also involved much. Installed IDE and recommend plug-ins. Set to go!
+
+**Link(s) to work**
+1. [Add a Submit Button to a Form](https://learn.freecodecamp.org/responsive-web-design/basic-html-and-html5/add-a-submit-button-to-a-form)
