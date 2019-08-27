@@ -37,3 +37,12 @@
 
 **Link(s) to work**
 1. [Add a Submit Button to a Form](https://learn.freecodecamp.org/responsive-web-design/basic-html-and-html5/add-a-submit-button-to-a-form)
+
+### Day 5: August 26, 2019 Monday
+
+**Today's Progress**: I've gone through module 1.27 in freeCodeCamp.
+
+**Thoughts:** I hope I pick up the pace from now on.
+
+**Link(s) to work**
+1. [Define the Head and Body of an HTML Document](https://learn.freecodecamp.org/responsive-web-design/basic-html-and-html5/define-the-head-and-body-of-an-html-document)
