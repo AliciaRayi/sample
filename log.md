@@ -46,3 +46,17 @@
 
 **Link(s) to work**
 1. [Define the Head and Body of an HTML Document](https://learn.freecodecamp.org/responsive-web-design/basic-html-and-html5/define-the-head-and-body-of-an-html-document)
+
+### Day 6: August 27, 2019 Tuesday
+
+**Today's Progress**: I've gone through module 2.13 in freeCodeCamp and Agela Yu module 14.
+
+**Thoughts:** I've been through a lot of research about bootcamp programs for a month now. Expecting to become more consistent than self-taught, I've applied several bootcamps, but not many bootcamps provide a solid portfolio building course. So I came down to freeCodeCamp, Udemy, Codecademy, Microverse, Launch School and Nucamp. I want to make a good enough portfolio during this 100 days of the challenge and start applying jobs from small company. And while applying for jobs I'll start going for in-person classes and meetups for interview perparation. Plus, will get a HTML, CSS and Javascript certificate from Microsoft. Since my main goal for three months onward is building a portfolio I'll focus on freeCodeCamp, Udemy and Codecademy. And then will consider those cohort bootcamps.
+
+**Tomorrow's task**
+1. Learning lab from Github
+2. a/A Ruby Intro review
+
+**Link(s) to work**
+1. [Give a Background Color to a div Element](https://learn.freecodecamp.org/responsive-web-design/basic-css/give-a-background-color-to-a-div-element)
+2. [Personal Website](file:///C:/Users/rudgh/Downloads/FCC/Web%20Development/HTML%20-%20Personal%20Site/index.html)
