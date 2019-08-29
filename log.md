@@ -60,3 +60,18 @@
 **Link(s) to work**
 1. [Give a Background Color to a div Element](https://learn.freecodecamp.org/responsive-web-design/basic-css/give-a-background-color-to-a-div-element)
 2. [Personal Website](file:///C:/Users/rudgh/Downloads/FCC/Web%20Development/HTML%20-%20Personal%20Site/index.html)
+
+### Day 7: August 28, 2019 Wednesday
+
+**Today's Progress**: I've gone through module 2.20 in freeCodeCamp and Agela Yu module 17, Git & Github.
+
+**Thoughts:** Today was my luck day! I found a mentor in Cybersecurity. This is just a start!
+
+**Tomorrow's task**
+1. a/A technical interview
+2. delve into Cybersecurity
+
+**Link(s) to work**
+1. [Add Different Margins to Each Side of an Element](https://learn.freecodecamp.org/responsive-web-design/basic-css/add-different-margins-to-each-side-of-an-element)
+2. [Personal Website](file:///C:/Users/rudgh/Downloads/FCC/Web%20Development/HTML%20-%20Personal%20Site/index.html)
+
