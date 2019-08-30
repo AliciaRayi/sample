@@ -75,3 +75,16 @@
 1. [Add Different Margins to Each Side of an Element](https://learn.freecodecamp.org/responsive-web-design/basic-css/add-different-margins-to-each-side-of-an-element)
 2. [Personal Website](file:///C:/Users/rudgh/Downloads/FCC/Web%20Development/HTML%20-%20Personal%20Site/index.html)
 
+### Day 8: August 29, 2019 Thursday
+
+**Today's Progress**: I've gone through module 2.30 in freeCodeCamp and Agela Yu module 24, tech interview with a/A.
+
+**Thoughts:** Found some study buddies for Udemy course so I'm having more progress!
+
+**Tomorrow's task**
+1. Git&Github organize note
+2. delve into Cybersecurity
+
+**Link(s) to work** (to be revised)
+1. [Add Different Margins to Each Side of an Element](https://learn.freecodecamp.org/responsive-web-design/basic-css/add-different-margins-to-each-side-of-an-element)
+2. [Personal Website](file:///C:/Users/rudgh/Downloads/FCC/Web%20Development/HTML%20-%20Personal%20Site/index.html)
