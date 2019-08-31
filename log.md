@@ -88,3 +88,23 @@
 **Link(s) to work** (to be revised)
 1. [Add Different Margins to Each Side of an Element](https://learn.freecodecamp.org/responsive-web-design/basic-css/add-different-margins-to-each-side-of-an-element)
 2. [Personal Website](file:///C:/Users/rudgh/Downloads/FCC/Web%20Development/HTML%20-%20Personal%20Site/index.html)
+
+
+### Day 9: August 30, 2019 Friday
+
+**Today's Progress**: I've finished basic CSS in freeCodeCamp and gone through Agela Yu module 34.
+
+**Thoughts:** Rejected a/A admission eventually, but since I'm gonna prepare GDPR certificates at the same time, it's better to take part-time bootcamp, so I'm good. And hope I can jump into Javascript soon. Think I'm spending too much on HTML and CSS. At least in fCC think I can start Javascript part even now.
+I set a goal to do 10 modules per day for fCC, Udemy both.
+Hmm.. I want to take Colt class though,, and Codecademy.. 
+I'm afraid of doing fCC projects all by myself, I think some of them don't have enough explanations for answers.
+
+**Tomorrow's task** (minimum)
+1. fCC module 3.10
+2. Udemy module 50
+3. Github learning lab
+4. Windows 10 upgrade (backup)
+
+**Link(s) to work** (to be revised)
+1. [Personal Website](https://aliciarayi.github.io/cv/)
+
