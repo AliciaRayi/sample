@@ -105,6 +105,24 @@ I'm afraid of doing fCC projects all by myself, I think some of them don't have 
 3. Github learning lab
 4. Windows 10 upgrade (backup)
 
-**Link(s) to work** (to be revised)
+**Link(s) to work**
+1. [Personal Website](https://aliciarayi.github.io/cv/)
+
+
+### Day 10: August 31, 2019 Saturday
+
+**Today's Progress**: I've started Applied Visual Design and Basic JavaScript in freeCodeCamp and gone through Agela Yu module 44. + introduction of Colt's bootcamp.
+
+**Thoughts:** 15 modules fCC + 10 modules Udemy. Didn't expect it to be too much but i think this is almost maximum I can do per day at least for now. I want to add Colt's and Leet Code or Hacker Rank practice problems though not sure at this point.
+I think right now is still laying foundations of each skill the most important part here is not to get bored and give up.
+So before entering React, Node.js I'll take several different courses to keep me involved.
+
+**Tomorrow's task** (minimum)
+1. Github summary
+2. Udemy module 50 (Angela) + Colt
+3. fCC CSS + JavaScript
+
+
+**Link(s) to work** 
 1. [Personal Website](https://aliciarayi.github.io/cv/)
 
