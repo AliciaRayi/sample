@@ -126,3 +126,16 @@ So before entering React, Node.js I'll take several different courses to keep me
 **Link(s) to work** 
 1. [Personal Website](https://aliciarayi.github.io/cv/)
 
+### Day 11: September 1, 2019 Sunday
+
+**Today's Progress**: Spent a whole day to summarize use cases of Git & Github. And then hurried to finish up daily tasks but only completed fCC. I'll catch up Angela's Udemy today.
+
+**Thoughts:** Today was challenging and rewarding at the same time. Once challenged you became so depressed that all the progress you made got blurred but they remain within you. The more you lose confidence the harder you should try. Then tomorrow will be better than today. 
+
+**Tomorrow's task** (minimum)
+1. Udemy module 50 (Angela) + Colt module 15
+2. fCC CSS + JavaScript
+3. Weekly meeting topic
+
+**Link(s) to work** 
+1. [Git & Github Summary](https://drive.google.com/open?id=1n5vHorsfLJyr-EGtQ4cgQ2OeqlCRdIniTX25Uw-5bRQ)
