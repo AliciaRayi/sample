@@ -139,3 +139,17 @@ So before entering React, Node.js I'll take several different courses to keep me
 
 **Link(s) to work** 
 1. [Git & Github Summary](https://drive.google.com/open?id=1n5vHorsfLJyr-EGtQ4cgQ2OeqlCRdIniTX25Uw-5bRQ)
+
+### Day 12: September 2, 2019 Monday
+
+**Today's Progress**: Tried to switch from Atom to VS code on my own. Found a very useful extensions and VS code more useful than Atom.
+
+**Thoughts:** I need to spend morning and afternoon more productively!
+
+**Tomorrow's task** (minimum)
+1. Udemy module 60 (Angela) + Colt module 20
+2. fCC CSS + JavaScript
+3. Weekly meeting topic
+
+**Link(s) to work** 
+1. [New Personal Website](https://aliciarayi.github.io/css-mysite/)
