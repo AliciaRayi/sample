@@ -153,3 +153,17 @@ So before entering React, Node.js I'll take several different courses to keep me
 
 **Link(s) to work** 
 1. [New Personal Website](https://aliciarayi.github.io/css-mysite/)
+
+### Day 13: September 3, 2019 Tuesday
+
+**Today's Progress**: Done intermediate CSS in Angela's. I'll be starting Bootstrap tomorrow!
+
+**Thoughts:** Hmm FCC is too text based and not strong in JavaScript. Need supplementary sources. Ah I found a new study buddy and a group yayy!
+
+**Tomorrow's task** (minimum)
+1. Udemy module 70 (Angela) + Colt module 40
+2. Finish fCC Visual Design + JavaScript
+3. Weekly meeting topic
+
+**Link(s) to work** 
+1. [New Personal Website](https://aliciarayi.github.io/css-mysite/)
