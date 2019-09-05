@@ -167,3 +167,18 @@ So before entering React, Node.js I'll take several different courses to keep me
 
 **Link(s) to work** 
 1. [New Personal Website](https://aliciarayi.github.io/css-mysite/)
+
+### Day 14: September 4, 2019 Wednesday
+
+**Today's Progress**: Done fCC Visual Design!
+
+**Thoughts:** Ahhhh that section was a very long but animation was interesting. 
+
+**Tomorrow's task** (minimum)
+1. Udemy module 70 (Angela) + Colt module 50
+2. fCC Accessibility 
+
+
+**Link(s) to work** 
+1. [New Personal Website](https://aliciarayi.github.io/css-mysite/)
+
