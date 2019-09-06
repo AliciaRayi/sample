@@ -182,3 +182,15 @@ So before entering React, Node.js I'll take several different courses to keep me
 **Link(s) to work** 
 1. [New Personal Website](https://aliciarayi.github.io/css-mysite/)
 
+### Day 15: September 5, 2019 Thursday
+
+**Today's Progress**: Got into Bootstrap section!
+
+**Thoughts:** Because of job search didnt' have much of progress. I'll make up tomorrow.
+
+**Tomorrow's task** (minimum)
+1. Udemy module 70 (Angela) + Colt module 50 + Andrei 25
+2. fCC Accessibility 
+
+**Link(s) to work** 
+1. [New Personal Website](https://aliciarayi.github.io/css-mysite/)
