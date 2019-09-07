@@ -194,3 +194,13 @@ So before entering React, Node.js I'll take several different courses to keep me
 
 **Link(s) to work** 
 1. [New Personal Website](https://aliciarayi.github.io/css-mysite/)
+
+
+### Day 16: September 6, 2019 Friday
+
+**Today's Progress**: Learned how to make wireframe of website through Balsamiq!
+
+**Thoughts:** I need to grow stronger mentality so my pace learning coding not to get affected by job search.
+
+**Link(s) to work** 
+1. [Wireframe of Website](https://balsamiq.cloud/sa0tqnm/p3yzu7d/r2278)
