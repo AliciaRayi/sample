@@ -212,3 +212,12 @@ So before entering React, Node.js I'll take several different courses to keep me
 
 **Link(s) to work** (to be revised)
 1. [Wireframe of Website](https://balsamiq.cloud/sa0tqnm/p3yzu7d/r2278)
+
+### Day 18: September 8, 2019 Sunday
+
+**Today's Progress**: Getting close to JavaScript section finally.
+**Thoughts:** Need to imporve the progress rate.
+
+**Link(s) to work** (to be revised)
+1. [Wireframe of Website](https://balsamiq.cloud/sa0tqnm/p3yzu7d/r2278)
+
