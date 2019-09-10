@@ -221,3 +221,9 @@ So before entering React, Node.js I'll take several different courses to keep me
 **Link(s) to work** (to be revised)
 1. [Wireframe of Website](https://balsamiq.cloud/sa0tqnm/p3yzu7d/r2278)
 
+
+
+### Breaktime: September 9, 2019 Monday
+
+
+**Thoughts:** Had an in-person interview and got Freshened up after that! Will get back to coding tomorrow!
