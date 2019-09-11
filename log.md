@@ -207,6 +207,7 @@ So before entering React, Node.js I'll take several different courses to keep me
 ### Day 17: September 7, 2019 Saturday
 
 **Today's Progress**: Using Bootstrap and Fontawesome to beutify the website.
+
 **Thoughts:** Need to imporve the progress rate.
 
 **Link(s) to work**
@@ -215,6 +216,7 @@ So before entering React, Node.js I'll take several different courses to keep me
 ### Day 18: September 8, 2019 Sunday
 
 **Today's Progress**: Getting close to JavaScript section finally.
+
 **Thoughts:** Need to imporve the progress rate.
 
 **Link(s) to work**
@@ -223,5 +225,15 @@ So before entering React, Node.js I'll take several different courses to keep me
 
 ### Breaktime: September 9, 2019 Monday
 
-
 **Thoughts:** Had an in-person interview and got Freshened up after that! Will get back to coding tomorrow!
+
+### Day 19: September 10, 2019 Tuesday
+
+**Today's Progress**: Created a price landing page using Bootstrap.
+
+**Thoughts:** Figuring out a way to balance out new job and coding. It might slow down my pace but the key is to be consistent.
+3 modules for each course are daily goal!
+
+**Link(s) to work**
+1. [Web Promotion page](https://aliciarayi.github.io/TinDog-Start-Here/)
+
