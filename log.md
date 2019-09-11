@@ -85,9 +85,8 @@
 1. Git&Github organize note
 2. delve into Cybersecurity
 
-**Link(s) to work** (to be revised)
-1. [Add Different Margins to Each Side of an Element](https://learn.freecodecamp.org/responsive-web-design/basic-css/add-different-margins-to-each-side-of-an-element)
-2. [Personal Website](file:///C:/Users/rudgh/Downloads/FCC/Web%20Development/HTML%20-%20Personal%20Site/index.html)
+**Link(s) to work**
+1. [Personal Website](https://aliciarayi.github.io/cv/)
 
 
 ### Day 9: August 30, 2019 Friday
@@ -210,17 +209,16 @@ So before entering React, Node.js I'll take several different courses to keep me
 **Today's Progress**: Using Bootstrap and Fontawesome to beutify the website.
 **Thoughts:** Need to imporve the progress rate.
 
-**Link(s) to work** (to be revised)
-1. [Wireframe of Website](https://balsamiq.cloud/sa0tqnm/p3yzu7d/r2278)
+**Link(s) to work**
+1. [Web Promotion page](https://aliciarayi.github.io/TinDog-Start-Here/)
 
 ### Day 18: September 8, 2019 Sunday
 
 **Today's Progress**: Getting close to JavaScript section finally.
 **Thoughts:** Need to imporve the progress rate.
 
-**Link(s) to work** (to be revised)
-1. [Wireframe of Website](https://balsamiq.cloud/sa0tqnm/p3yzu7d/r2278)
-
+**Link(s) to work**
+1. [Web Promotion page](https://aliciarayi.github.io/TinDog-Start-Here/)
 
 
 ### Breaktime: September 9, 2019 Monday
