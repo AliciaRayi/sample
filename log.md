@@ -211,7 +211,7 @@ So before entering React, Node.js I'll take several different courses to keep me
 **Thoughts:** Need to imporve the progress rate.
 
 **Link(s) to work**
-1. [Web Promotion page](https://aliciarayi.github.io/TinDog-Start-Here/)
+1. [App Promotion page](https://aliciarayi.github.io/TinDog-Start-Here/)
 
 ### Day 18: September 8, 2019 Sunday
 
@@ -220,7 +220,7 @@ So before entering React, Node.js I'll take several different courses to keep me
 **Thoughts:** Need to imporve the progress rate.
 
 **Link(s) to work**
-1. [Web Promotion page](https://aliciarayi.github.io/TinDog-Start-Here/)
+1. [App Promotion page](https://aliciarayi.github.io/TinDog-Start-Here/)
 
 
 ### Breaktime: September 9, 2019 Monday
@@ -235,5 +235,5 @@ So before entering React, Node.js I'll take several different courses to keep me
 3 modules for each course are daily goal!
 
 **Link(s) to work**
-1. [Web Promotion page](https://aliciarayi.github.io/TinDog-Start-Here/)
+1. [App Promotion page](https://aliciarayi.github.io/TinDog-Start-Here/)
 
