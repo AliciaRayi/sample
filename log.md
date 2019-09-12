@@ -237,3 +237,11 @@ So before entering React, Node.js I'll take several different courses to keep me
 **Link(s) to work**
 1. [App Promotion page](https://aliciarayi.github.io/TinDog-Start-Here/)
 
+### Day 20: September 11, 2019 Wednesday
+
+**Today's Progress**: Z-index and Media query
+
+**Thoughts:** I got stuck with the concept of the position property - absolute, relative, fixed, static. I get how each of them works but when it comes to decide which position property to choose to make a certain image go on top of another.. I'm not sure what to choose between relative and absolute. Hmm I thought the more I take lessons I would get better understanding but so far no..
+
+**Link(s) to work**
+1. [App Promotion page](https://aliciarayi.github.io/TinDog-Start-Here/)
