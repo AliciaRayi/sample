@@ -245,3 +245,13 @@ So before entering React, Node.js I'll take several different courses to keep me
 
 **Link(s) to work**
 1. [App Promotion page](https://aliciarayi.github.io/TinDog-Start-Here/)
+
+### Day 21: September 12, 2019 Thursday
+
+**Today's Progress**: Refactoring CSS
+
+**Thoughts:** I followed along Angela when she was refactoring CSS but not confident enough whether I can streamline my code alone like her.
+
+**Link(s) to work**
+1. [App Promotion page](https://aliciarayi.github.io/TinDog-Start-Here/)
+
