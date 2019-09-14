@@ -255,3 +255,11 @@ So before entering React, Node.js I'll take several different courses to keep me
 **Link(s) to work**
 1. [App Promotion page](https://aliciarayi.github.io/TinDog-Start-Here/)
 
+### Day 22: September 13, 2019 Friday
+
+**Today's Progress**: Done CSS&Bootstrap and began Javascript!!!
+
+**Thoughts:** Hope soon to implement JS to my website!
+
+**Link(s) to work**
+1. [App Promotion page](https://aliciarayi.github.io/TinDog-Start-Here/)
