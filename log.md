@@ -263,3 +263,12 @@ So before entering React, Node.js I'll take several different courses to keep me
 
 **Link(s) to work**
 1. [App Promotion page](https://aliciarayi.github.io/TinDog-Start-Here/)
+
+### Day 23: September 14, 2019 Saturday
+
+**Today's Progress**: Reviewed HTML & CSS especially on Applied Accessibility part in fCC
+
+**Thoughts:** Slow but steady!
+
+**Link(s) to work**
+1. [App Promotion page](https://aliciarayi.github.io/TinDog-Start-Here/)
