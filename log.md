@@ -272,3 +272,12 @@ So before entering React, Node.js I'll take several different courses to keep me
 
 **Link(s) to work**
 1. [App Promotion page](https://aliciarayi.github.io/TinDog-Start-Here/)
+
+### Day 24: September 15, 2019 Sunday
+
+**Today's Progress**: fundamentals of JS - variables
+
+**Thoughts:** Slow but steady!
+
+**Link(s) to work**
+1. [App Promotion page](https://aliciarayi.github.io/TinDog-Start-Here/)
