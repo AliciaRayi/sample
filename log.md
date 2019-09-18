@@ -290,3 +290,12 @@ So before entering React, Node.js I'll take several different courses to keep me
 
 **Link(s) to work**
 1. [Karel program](http://stanford.edu/~cpiech/karel/ide.html)
+
+### Day 26: September 17, 2019 Tuesday
+
+**Today's Progress**: Now I'm on DOM
+
+**Thoughts:** Slow but steady!
+
+**Link(s) to work**
+1. [Karel program](http://stanford.edu/~cpiech/karel/ide.html)
