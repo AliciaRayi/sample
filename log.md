@@ -299,3 +299,12 @@ So before entering React, Node.js I'll take several different courses to keep me
 
 **Link(s) to work**
 1. [Karel program](http://stanford.edu/~cpiech/karel/ide.html)
+
+### Day 27: September 18, 2019 Wednesday
+
+**Today's Progress**: Start utilizing JS to web.
+
+**Thoughts:** Slow but steady!
+
+**Link(s) to work**
+1. [Karel program](https://aliciarayi.github.io/Dicee-Challenge---Completed/)
