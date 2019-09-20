@@ -308,3 +308,12 @@ So before entering React, Node.js I'll take several different courses to keep me
 
 **Link(s) to work**
 1. [Dice Challenge](https://aliciarayi.github.io/Dicee-Challenge---Completed/)
+
+### Day 28: September 19, 2019 Thursday
+
+**Today's Progress**: Completed Dice challenge using JS and reviewed CSS Flex Box and Grid through fCC.
+
+**Thoughts:** Slow but steady!
+
+**Link(s) to work**
+1. [Dice Challenge](https://aliciarayi.github.io/Dicee-Challenge---Completed/)
