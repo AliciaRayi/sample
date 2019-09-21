@@ -317,3 +317,12 @@ So before entering React, Node.js I'll take several different courses to keep me
 
 **Link(s) to work**
 1. [Dice Challenge](https://aliciarayi.github.io/Dicee-Challenge---Completed/)
+
+### Day off: September 20, 2019 Friday
+
+**Today's Progress**: Hubby's birthday! Had a family time :)
+
+**Thoughts:** Leave a record to assure to come back tomorrow!
+
+**Link(s) to work**
+
