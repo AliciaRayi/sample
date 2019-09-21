@@ -320,7 +320,7 @@ So before entering React, Node.js I'll take several different courses to keep me
 
 ### Day off: September 20, 2019 Friday
 
-**Today's Progress**: Hubby's birthday! Had a family time :)
+**Today's Progress**: Hubby's birthday! Had family time :)
 
 **Thoughts:** Leave a record to assure to come back tomorrow!
 
