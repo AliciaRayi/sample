@@ -326,3 +326,11 @@ So before entering React, Node.js I'll take several different courses to keep me
 
 **Link(s) to work**
 
+### Day 29: September 29, 2019 Sunday
+
+**Today's Progress**: Completed a Tribute page in freeCodeCamp
+
+**Thoughts:** Came back in 10 days!!!
+
+**Link(s) to work**
+1. [Tribute page](https://aliciarayi.github.io/tribute-page/)
